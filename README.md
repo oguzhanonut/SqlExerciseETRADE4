@@ -1,2 +1,2 @@
-# SqlExerciseETRAD4
+# SqlExerciseETRADE4
 SQL kursları izleyerek yaptığım alıştırmalar.
